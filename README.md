@@ -3,7 +3,7 @@
 MSc Project — Tabular Q-Learning applied to elevator dispatch optimization.
 
 ## Demo
-Live: https://YOUR-USERNAME.github.io/smart-elevator-rl
+Live: https://vvek2611.github.io/vvek-smart-elevator-rl
 
 ## Problem Formulation
 - **State**: floor, direction, 5 binary call/passenger flags
