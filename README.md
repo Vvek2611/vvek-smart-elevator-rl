@@ -1,5 +1,7 @@
  🛗 Smart Elevator Dispatch System using Reinforcement Learning.
+ 
  URL: https://Vvek2611.github.io/vvek-smart-elevator-rl
+ 
 📌 Project Overview:
 An interactive browser-based simulation of a Q-Learning agent learning to optimally control elevator
 dispatch — built as an MSc project in Artificial Intelligence & Reinforcement Learning.
@@ -36,6 +38,7 @@ class ElevatorAgent {
   step()               // execute one timestep, update Q-table
   endEpisode()         // decay ε, return episode stats
 }
+
 🔐 Authentication:
 
 This is a client-side academic simulation with no backend, no user data, no login, and no API keys. Everything runs locally in the browser.
